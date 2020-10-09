@@ -1,6 +1,6 @@
 // Demo Jenkinsfile
 
-GIT_URL          = "https://github.com/kevops-official/web-templates.git"
+GIT_URL          = "https://github.com/kevops-official/templates.git"
 GIT_BRANCH       = "master"
 DOCKER_CONTAINER = "demo-web-template"
 DOCKER_IMAGE     = "web-template"
